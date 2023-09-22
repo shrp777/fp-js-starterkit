@@ -1,4 +1,6 @@
-# World Cup Ready
+# Training
+
+World Cup - Functional Programming
 
 Exercices d'initiation aux fonctionnalités JS utiles pour implémenter le paradigme déclaratif
 
