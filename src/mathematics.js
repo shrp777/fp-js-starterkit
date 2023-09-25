@@ -14,7 +14,7 @@ const add = (a, b) =>
  * divide :: (a, b) -> a / b
  * @param {Number} a
  * @param {Number} b
- * @returns {Number}
+ * @returns {Number|Error}
  */
 const divide = (a) => (b) =>
   typeof a === "number" && typeof b === "number" && a > 0 && b > 0

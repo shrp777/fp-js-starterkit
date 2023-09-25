@@ -1,8 +1,14 @@
 # Functional Programming - JS - Skeleton
 
-- ESlint + eslint-functional-plugin
+Projet modèle pour la Programmation Fonctionnelle en JavaScript (ES6+).
+
+Modules pré-configurés :
+
+- Babel
+- ESlint + eslint-plugin-functional
 - Jest
 - Nodemon
+
 --
 
 !["Sherpa"](https://sherpa.one/images/sherpa-logotype-120.png)
