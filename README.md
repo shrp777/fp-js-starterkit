@@ -12,8 +12,8 @@ Projet modèle pour la Programmation Fonctionnelle en JavaScript (ES6+).
 
 ## Bibliothèques spécialisées en Programmation Fonctionnelle
 
-- Lodash
-- Ramda
+- _Lodash_
+- _Ramda_
 
 --
 
