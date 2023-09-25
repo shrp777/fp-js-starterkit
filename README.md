@@ -10,7 +10,7 @@ Projet modèle pour la Programmation Fonctionnelle en JavaScript (ES6+).
 - _Jest_ : Tests Unitaires (./jest.config.mjs)
 - _Nodemon_ : Hot Reloading
 
-## En option : Modules NPM spécialisés en Programmation Fonctionnelle
+## En option : Modules NPM spécialisés pour la Programmation Fonctionnelle
 
 - _Lodash_
 - _Ramda_
