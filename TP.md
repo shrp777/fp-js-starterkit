@@ -1,43 +1,45 @@
 # TP
 
-Questions :
+## Etape 01
 
-- Combien de coupes du Monde ont été disputées depuis la création de la compétition ?
+Sélectionnez les équipes...
 
-- Combien d'édition de la Coupe du Monde auraient dû avoir lieu entre 1938 et 1950 ?
+1 - qui ont au moins remporté une finale,
 
-- Quelle équipe a remporté le plus de Coupe du Monde ?
+2 - qui ont remporté chacune des finales qu'ils ont joué,
 
-- Quelle équipe a joué le plus de finale de Coupe du Monde ?
+3 - qui ont participé à une finale sans jamais en remporter,
 
-- Quelle équipe a perdu le plus de finale de Coupe du Monde ?
+4 - qui ont à la fois remporté au moins une finale ET perdu au moins une finale.
 
-- Parmi les finalistes, quelle équipe a joué le plus de finale de Coupe du Monde sans jamais en remporter une ?
+## Etape 02
 
-- Quelle équipe a le meilleur taux de participation couplé au meilleur taux de réussite en finale de Coupe du Monde ?
+1 - Quelle équipe a remporté le plus de Coupe du Monde ?
 
-- Quelle équipe a le meilleur taux de réussite en finale de Coupe du Monde ?
+2 - Quelle équipe a joué le plus de finale de Coupe du Monde ?
 
-- Quel est le classement ascendant des finalistes (par ordre de victoire et de participation) ?
+3 - Quelle équipe a perdu le plus de finales de Coupe du Monde ?
 
-- Quel pays a disputé le plus de finales de Coupe du Monde ?
+4 - Quelle équipe a le meilleur taux de participation couplé au meilleur taux de réussite en finale de Coupe du Monde ?
 
-- Quel pays a marqué le plus de buts en finale de Coupe du Monde ?
+5 - Quel est le classement descendant des finalistes (par ordre de victoires et de participations à une finale de Coupe du Monde) ?
 
-- Quel pays a encaissé le plus de buts en finale de Coupe du Monde ?
+6 - Quel pays a disputé le plus de finales de Coupe du Monde ?
 
-- Combien de finales se sont terminées après le temps réglementaire ?
+7 - Quel pays a marqué le plus de buts en finale de Coupe du Monde ?
 
-- Combien de finales se sont terminées après la séance de tirs au but ?
+8 - Quel pays a encaissé le plus de buts en finale de Coupe du Monde ?
 
-- Quel continent a remporté le plus de Coupe du Monde ?
+9 - Combien de finales se sont terminées après la séance de tirs au but ?
 
-- Quel continent a accueilli le plus d'éditions de la Coupe du Monde ?
+10 - Quel continent a remporté le plus de Coupe du Monde ?
 
-- Quel pays a accueilli le plus d'éditions de la Coupe du Monde ?
+11 - Quel continent a accueilli le plus d'éditions de la Coupe du Monde ?
 
-- Au total, combien de buts ont été inscrits en finale de Coupe du Monde durant le temps réglementaire (hors séance de tirs au but), toutes éditions confondues ?
+12 - Quel pays a accueilli le plus d'éditions de la Coupe du Monde ?
 
-- Au total, combien de spectateurs ont assisté à une finale de Coupe du Monde, toutes éditions confondues ?
+13 - Au total, combien de buts ont été inscrits en finale de Coupe du Monde durant le temps réglementaire (hors prolongation et séance de tirs au but), toutes éditions confondues ?
 
-- Quel stade a accueilli le plus de spectateurs au cours d'une finale de Coupe du Monde ?
+14 - Au total, combien de spectateurs ont assisté à une finale de Coupe du Monde, toutes éditions confondues ?
+
+15 - Quel stade a accueilli le plus de spectateurs au cours d'une finale de Coupe du Monde ?

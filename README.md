@@ -2,7 +2,9 @@
 
 ## Functional Programming
 
-Exercices d'initiation aux fonctionnalités JS utiles pour implémenter le paradigme déclaratif
+### Etape 01
+
+Exercices d'initiation aux fonctionnalités JS utiles appliquer les concepts de la Programmation Fonctionnelle.
 
 - Array
 - Destructuring
