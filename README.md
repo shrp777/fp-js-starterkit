@@ -2,7 +2,7 @@
 
 Projet modèle pour la Programmation Fonctionnelle en JavaScript (ES6+).
 
-## Modules pré-configurés
+## Modules NPM pré-configurés
 
 - _Babel_ : Transcompilateur JS (./.babelrc)
 - _ESlint_ : outil d'analyse de code statique
@@ -10,7 +10,7 @@ Projet modèle pour la Programmation Fonctionnelle en JavaScript (ES6+).
 - _Jest_ : Tests Unitaires (./jest.config.mjs)
 - _Nodemon_ : Hot Reloading
 
-## Bibliothèques spécialisées en Programmation Fonctionnelle
+## En option : Modules NPM spécialisés en Programmation Fonctionnelle
 
 - _Lodash_
 - _Ramda_
