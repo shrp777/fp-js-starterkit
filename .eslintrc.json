@@ -18,7 +18,7 @@
         "no-var": "warn",
         "prefer-const": "warn",
         "no-param-reassign": "warn",
-        "functional/functional-parameters": "",
+        "functional/functional-parameters": "warn",
         "functional/no-promise-reject": "warn",
         "functional/no-throw-statements": "warn",
         "functional/no-try-statements": "warn",
