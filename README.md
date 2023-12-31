@@ -17,7 +17,7 @@ Projet modèle pour la Programmation Fonctionnelle en JavaScript (ES6+).
 
 --
 
-!["Sherpa"](https://sherpa.one/images/sherpa-logotype-120.png)
+!["Logotype Shrp"](https://shrp.dev/images/shrp.png)
 
 __Alexandre Leroux__  
 _Enseignant / Formateur_  
@@ -25,4 +25,4 @@ _Développeur logiciel web & mobile_
 
 Nancy (Grand Est, France)
 
-<https://sherpa.one>
+<https://shrp.dev>
